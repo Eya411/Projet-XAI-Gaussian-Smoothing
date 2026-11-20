@@ -1,0 +1,21 @@
+{
+    "experiment_type": "minimal_test",
+    "images": [
+        3535
+    ],
+    "seeds": [
+        10007
+    ],
+    "sigmas": [
+        0.05
+    ],
+    "methods": [
+        "SimpleGrad",
+        "IntegratedGradients"
+    ],
+    "noise_samples": 2,
+    "batch_size": 1,
+    "ig_steps": 20,
+    "input_range": 2.0,
+    "device": "cuda"
+}

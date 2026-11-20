@@ -1,0 +1,7 @@
+method,sigma_relative,sigma_noise,fidelity_L2
+Simple-Grad,0.0,0.0,1.0443505971124978e-06
+Simple-Grad,0.05,0.1,4.846429347991943
+Simple-Grad,0.1,0.2,6.876585960388184
+Integrated-Grad,0.0,0.0,1.5351125739471172e-06
+Integrated-Grad,0.05,0.1,1.1258476972579956
+Integrated-Grad,0.1,0.2,2.265953302383423

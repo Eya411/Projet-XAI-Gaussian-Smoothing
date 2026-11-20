@@ -1,0 +1,3 @@
+seed,method,sigma_relative,sigma_input,image_index,distance_l2
+10007,SimpleGrad,0.05,0.1,3535,16.29581642150879
+10007,IntegratedGradients,0.05,0.1,3535,5.459324836730957

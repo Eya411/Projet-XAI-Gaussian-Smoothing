@@ -1,0 +1,44 @@
+﻿.venv/
+.venv*/
+venv/
+env/
+__pycache__/
+*.py[cod]
+dataset/
+data/
+*.tar
+*.tar.gz
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+*.npz
+logs/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Bibliothèques et dépôts externes conservés localement
+/pytorch-grad-cam-master/
+/saliency-master/
+/Gaussian-Smoothing-in-Saliency-Maps-main/
+# Archive du dataset CIFAR-10
+cifar-10-python.tar.gz
+# Checkpoints des modèles dans tous les dossiers
+*.pth
+*.pt
+*.ckpt
+# Fichiers temporaires Python
+__pycache__/
+# Anciennes versions intermediaires du bilan scientifique
+Gaussian_Smoothing_CIFAR10/results/phase6_final/contribution/phase8_6_bilan_scientifique_avant_correction.md
+Gaussian_Smoothing_CIFAR10/results/phase6_final/contribution/phase8_6_bilan_scientifique_avant_correction_ciblée.md
+# Fichiers de sauvegarde et resultats intermediaires
+Gaussian_Smoothing_CIFAR10/generate_stability_results_backup.py
+Gaussian_Smoothing_CIFAR10/results/phase5_evaluation/phase5_evaluation_summary_backup.csv
+# Tests preliminaires de stabilite (non retenus dans les livrables finaux)
+Gaussian_Smoothing_CIFAR10/results/phase6_final/stability/quick_tests/
+Presentation_XAI/04_Resultats_Entrainement/Gaussian_Smoothing_CIFAR10/results/phase6_final/stability/quick_tests/

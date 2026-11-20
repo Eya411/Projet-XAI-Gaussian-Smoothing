@@ -1,0 +1,9 @@
+seed,method,sigma_relative,mean_distance_l2,number_of_images
+10007,SimpleGrad,0.05,12.271318197250366,4
+10007,IntegratedGradients,0.05,4.7725502252578735,4
+10007,SimpleGrad,0.1,9.400067567825317,4
+10007,IntegratedGradients,0.1,4.400570213794708,4
+12345,SimpleGrad,0.05,10.207911968231201,4
+12345,IntegratedGradients,0.05,4.227825582027435,4
+12345,SimpleGrad,0.1,8.00890326499939,4
+12345,IntegratedGradients,0.1,3.8295592665672302,4
